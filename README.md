@@ -67,11 +67,11 @@ I describe my technical profile as:
 
 ## Connect With Me
 
-I am always interested in discussing:
+I am always interested in discussing the following:
 
 - Power systems software
 - Grid modernization
-- DER integration
+- AI-based CPS
 - Real-time simulation
 - Cyber-physical security
 - Energy resilience
