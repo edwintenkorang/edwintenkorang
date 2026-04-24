@@ -24,19 +24,24 @@ I work with distribution and transmission system modeling tools to analyze power
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### Python & Data Science
+### ML & Data Science
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-4C72B0?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Power Systems
-![Power Systems](https://img.shields.io/badge/Power%20Systems-Grid%20Modeling-blue?style=for-the-badge)
-![RTDS](https://img.shields.io/badge/RTDS-RSCAD-red?style=for-the-badge)
+![RTDS/RSCAD](https://img.shields.io/badge/RTDS-RSCAD-red?style=for-the-badge)
 ![CYME](https://img.shields.io/badge/CYME-Distribution%20Systems-orange?style=for-the-badge)
 ![OpenDSS](https://img.shields.io/badge/OpenDSS-Feeder%20Simulation-green?style=for-the-badge)
 ![PowerWorld](https://img.shields.io/badge/PowerWorld-Transmission%20Analysis-purple?style=for-the-badge)
 ![MATPOWER](https://img.shields.io/badge/MATPOWER-Power%20Flow-yellow?style=for-the-badge)
+![EMTP](https://img.shields.io/badge/EMTP-Transient%20Simulation-darkred?style=for-the-badge)
+
 
 ### Cyber & Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
