@@ -36,19 +36,19 @@ I work with distribution and transmission system modeling tools to analyze power
 
 ### Power Systems
 ![RTDS/RSCAD](https://img.shields.io/badge/RTDS-RSCAD-red?style=for-the-badge)
-![CYME](https://img.shields.io/badge/CYME-Distribution%20Systems-orange?style=for-the-badge)
-![OpenDSS](https://img.shields.io/badge/OpenDSS-Feeder%20Simulation-green?style=for-the-badge)
-![PowerWorld](https://img.shields.io/badge/PowerWorld-Transmission%20Analysis-purple?style=for-the-badge)
-![MATPOWER](https://img.shields.io/badge/MATPOWER-Power%20Flow-yellow?style=for-the-badge)
-![EMTP](https://img.shields.io/badge/EMTP-Transient%20Simulation-darkred?style=for-the-badge)
+![CYME](https://img.shields.io/badge/CYME-orange?style=for-the-badge)
+![OpenDSS](https://img.shields.io/badge/OpenDSS-green?style=for-the-badge)
+![PowerWorld](https://img.shields.io/badge/PowerWorld-purple?style=for-the-badge)
+![MATPOWER](https://img.shields.io/badge/MATPOWER-yellow?style=for-the-badge)
+![EMTP](https://img.shields.io/badge/EMTP-darkred?style=for-the-badge)
 
 
 ### Cyber & Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=for-the-badge)
-![CORE](https://img.shields.io/badge/CORE-Network%20Emulation-gray?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-blue?style=for-the-badge)
+![CORE](https://img.shields.io/badge/CORE-gray?style=for-the-badge)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
